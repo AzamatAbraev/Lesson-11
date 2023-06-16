@@ -6,4 +6,7 @@
 h1 {
   font-size: 50px;
   padding: 20px;
+  text-align: center;
+  color: blue;
+  background-color: gray;
 }
